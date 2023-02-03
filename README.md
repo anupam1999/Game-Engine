@@ -1,5 +1,5 @@
 # Game-Engine
-A game engine written in java swing, where shapes can be added, their properties (color, position, speed, bounce) can be changed and movement features can be added to certain shapes with real physics rules.
+A game engine builds in java swing, where shapes can be added, their properties (color, position, speed, bounce) can be changed and movement features can be added to certain shapes with real physics rules.
 
 ---
 ## GIFs
